@@ -1,1 +1,3 @@
- vamos aprender a configurar um projeto do total zero utilizando Node.js e TypeScript incluindo ferramentas como ts-node-dev, ESLint, Prettier, EditorConfig.
+ #Back-end-Node.js
+ 
+Este é um projeto criado do zero utilizando Node.js e TypeScript utilizando ferramentas como ts-node-dev, ESLint, Prettier, EditorConfig.
